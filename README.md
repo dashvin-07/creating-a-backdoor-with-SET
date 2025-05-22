@@ -62,18 +62,12 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/ab4148ce-d531-4616-8794-120e7a913bcf)
 
-### It shows the following screen in which the ip address of the attacker need to be given which is the default value:
-
-## OUTPUT :
-
-![image](https://github.com/user-attachments/assets/d19e4c33-bcf3-4921-a4a3-47be0bda29ee)
-
 
 ### It shows the following screen in which the option Google can be selected:
 
 ## OUTPUT :
 
-![image](https://github.com/user-attachments/assets/76869338-b77b-47fc-8ac2-b9f562e39d8b)
+![image](https://github.com/user-attachments/assets/ee3eb0e8-969f-4cb2-84d0-ec1e4deafab3)
 
 
 ### SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
@@ -83,11 +77,12 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 ![image](https://github.com/user-attachments/assets/67ff7353-8ec2-4e77-a5af-fcefdf6da934)
 
 
-### In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
+### In windows IE, on giving the url http://192.168.192.132, the fake Google page is displayed. The victim can enter the username and password
 
 ## OUTPUT :
 
-![Screenshot 2025-05-09 185233](https://github.com/user-attachments/assets/3961ec97-c9a2-49e9-9ec8-099355564d38)
+![IMG_5661](https://github.com/user-attachments/assets/7428dccb-34b6-4528-aba9-ff63bc15c197)
+
 
 
 
